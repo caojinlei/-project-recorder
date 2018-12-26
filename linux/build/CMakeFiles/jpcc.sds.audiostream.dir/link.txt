@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -std=c++11 -Wall -finstrument-functions -fPIC -g   -shared -Wl,-soname,libjpcc.sds.audiostream.so -o libjpcc.sds.audiostream.so CMakeFiles/jpcc.sds.audiostream.dir/platform/jpcc/src/fake_mib3audio_lib.cc.o  -L/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/../third_party/x86/lib  -L/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/libs/x86 

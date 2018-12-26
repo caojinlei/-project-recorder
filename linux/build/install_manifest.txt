@@ -1,0 +1,13 @@
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./Spider-Man
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./libjpcc.sds.audiostream.so
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./libmobvoidsp.so
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./libmobvoisdk.so
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/fix_bf_2_006_weight.txt
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/gsc_block_matrix.txt
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/uplink.cfg
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/gsc_fix_weight.txt
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/MFB_2_006_weight_2beam.txt
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/dsp_config/fix_bf_2_006_weight_2beam.txt
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./simulator/parameter_config.conf
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./libutils.so
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/install/./libnetwork_recorder.so

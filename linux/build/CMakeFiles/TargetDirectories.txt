@@ -1,0 +1,4 @@
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/build/CMakeFiles/Spider-Man.dir
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/build/CMakeFiles/jpcc.sds.audiostream.dir
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/build/CMakeFiles/network_recorder.dir
+/home/it/caojinlei/short-recorder-tool/Spider-Man/linux/build/CMakeFiles/utils.dir
