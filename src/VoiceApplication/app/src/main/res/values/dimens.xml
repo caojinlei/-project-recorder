@@ -1,7 +1,0 @@
-<resources>
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="default_height">64dp</dimen>
-    <dimen name="default_width">64dp</dimen>
-    <dimen name="default_marginParentRight">80dp</dimen>
-    <dimen name="default_marginTop">30dp</dimen>
-</resources>
